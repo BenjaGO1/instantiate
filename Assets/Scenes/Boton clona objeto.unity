@@ -435,7 +435,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59c21581ff6c91c498682d44cfbbca9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cantclones: 5
+  cantclones: 1
   objectToClone: {fileID: 2643060018183131656, guid: 485c62f711af40a43ba8737f46e7a2be,
     type: 3}
 --- !u!4 &639445232

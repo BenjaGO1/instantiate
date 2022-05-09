@@ -13,7 +13,7 @@ public class Instantiator : MonoBehaviour
     public void CloneObject()
     {
         int contador = 0;
-        while (contador <= cantclones)
+        while (contador < cantclones)
         {
             Instantiate(objectToClone);
             contador++;
